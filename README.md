@@ -21,11 +21,5 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-fr
 - Grass Flowers Pack Free
 https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
 
-- Terrain Textures - 4K
-https://assetstore.unity.com/packages/2d/textures-materials/terrain-textures-4k-179139
-
 - Yughues Free Fabric Materials
 https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-fabric-materials-13002
-
-
-Note: Terrain Textures - 4k will be removed from the project, as it will be replaced by other textures.
