@@ -1,6 +1,6 @@
 # Installation
 
-Before you can run this project, you need to add the following assets to the project.
+Before you can run this project, you need to add the following assets.
 The resulting folders must be placed in the Assets folder of your project in **/Assets/Libraries**.
 
 - Cone Mesh
@@ -23,3 +23,6 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers
 
 - Yughues Free Fabric Materials
 https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-fabric-materials-13002
+
+- Realistic Tree 9
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
