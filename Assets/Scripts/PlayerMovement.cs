@@ -43,10 +43,12 @@ public class ThirdPersonMovement : MonoBehaviour
         if (isGrounded && velocity.y <= 0) // Prevents gravity from accumulating
         {
             velocity.y = 0f;
+        } 
+        else 
+        {
+            velocity.y += gravity * Time.deltaTime;
+            controller.Move(velocity * Time.deltaTime);
         }
-
-        velocity.y += gravity * Time.deltaTime;
-        controller.Move(velocity * Time.deltaTime);
     }
 
     void handleJump()

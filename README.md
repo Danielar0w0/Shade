@@ -23,3 +23,8 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers
 
 - Yughues Free Fabric Materials
 https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-fabric-materials-13002
+
+Already included in the project:
+
+- Realistic Tree 9
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
