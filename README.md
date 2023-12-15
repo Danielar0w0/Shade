@@ -28,3 +28,6 @@ Already included in the project:
 
 - Realistic Tree 9
 https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
+
+- Jammo Character | Mix and Jam
+https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456

@@ -61,7 +61,7 @@ public class Interactable : MonoBehaviour
     {
         if (!movable) return;
         // Move object
-        transform.position = target.position + target.forward * radius;
+        transform.position = target.position + target.forward * radius + target.up * 1.2f;
     }
 
 
