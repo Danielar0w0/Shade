@@ -19,11 +19,16 @@ public class DeactivateColliderOnTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player") && !isTriggered)
         {
-            // Check if Glass Floor exists
-            if (GameObject.Find("Glass Floor"))
-                GameObject.Find("Glass Floor").GetComponent<Collider>().enabled = false;
 
-            isTriggered = true;
+            // Check if Player Focus is None
+            if (other.GetComponent<PlayerController>().focus == null)
+            {
+                // Check if Glass Floor exists
+                if (GameObject.Find("Glass Floor"))
+                    GameObject.Find("Glass Floor").GetComponent<Collider>().enabled = false;
+
+                isTriggered = true;
+            }
         }
     }
 
