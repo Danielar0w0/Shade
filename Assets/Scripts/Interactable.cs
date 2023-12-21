@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Interactable : MonoBehaviour
 {
+    public float upHeight = 1.2f;
     public float radius = 3f;
     public bool isFocus = false;
 
@@ -54,14 +55,15 @@ public class Interactable : MonoBehaviour
     {
         if (!rotatable) return;
         // Rotate object
-        transform.Rotate(0, 0, 45);
+        // transform.Rotate(0, 0, 45);
+        transform.Rotate(0, 45, 0);
     }
 
     internal void Move(Transform target)
     {
         if (!movable) return;
         // Move object
-        transform.position = target.position + target.forward * radius + target.up * 1.2f;
+        transform.position = target.position + target.forward * radius + target.up * upHeight;
     }
 
 

@@ -9746,7 +9746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9702924597604704dbc9aceebb196f87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 4
+  radius: 2
   levelName: ShadowPath 2
   transition: {fileID: 0}
   transitionTime: 1

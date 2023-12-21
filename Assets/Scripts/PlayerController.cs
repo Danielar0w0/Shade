@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 {
 
     public Interactable focus;
+    public float radius = 3f;
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +23,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E)) {
 
             // Get all interactable objects in radius
-            Collider[] hitColliders = Physics.OverlapSphere(transform.position, 3f);
+            Collider[] hitColliders = Physics.OverlapSphere(transform.position, radius);
 
             // Check if no objects in radius
             if (hitColliders.Length == 0) {
@@ -100,7 +101,6 @@ public class PlayerController : MonoBehaviour
 
             // Set focus to null
             focus = null;
-
         }
     }
 

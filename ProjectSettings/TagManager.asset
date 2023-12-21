@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Interactable
+  - PlayerEyes
   layers:
   - Default
   - TransparentFX
@@ -15,8 +16,8 @@ TagManager:
   - Ground
   - Walls
   - Shadow
-  - 
-  - 
+  - First Shadow
+  - Second Shadow
   - 
   - 
   - 
