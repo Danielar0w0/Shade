@@ -24,6 +24,12 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers
 - Yughues Free Fabric Materials
 https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-fabric-materials-13002
 
+- Dungeon Ground Texture 
+https://assetstore.unity.com/packages/2d/textures-materials/floors/dungeon-ground-texture-33296
+
+- Treasure Set
+https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
+
 - Valley Gray Cliff
 https://assetstore.unity.com/packages/3d/props/exterior/valley-gray-cliff-203730
 
