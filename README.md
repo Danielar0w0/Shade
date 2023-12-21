@@ -24,6 +24,9 @@ https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers
 - Yughues Free Fabric Materials
 https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-fabric-materials-13002
 
+- Valley Gray Cliff
+https://assetstore.unity.com/packages/3d/props/exterior/valley-gray-cliff-203730
+
 Already included in the project:
 
 - Realistic Tree 9
@@ -31,3 +34,6 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainb
 
 - Jammo Character | Mix and Jam
 https://assetstore.unity.com/packages/3d/characters/jammo-character-mix-and-jam-158456
+
+- Simple Water Shader URP
+  https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449
