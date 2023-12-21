@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ButtonControllerScript : MonoBehaviour
 {
+    public GameObject ObjectWithShadow;
 
     public GameObject spotLight;
     public Material newMaterial;
@@ -27,8 +28,10 @@ public class ButtonControllerScript : MonoBehaviour
         {
             spotLight.SetActive(true);
             GameObject.Find("Platform").GetComponent<Renderer>().material = newMaterial;
+
+            ObjectWithShadow.GetComponent<InteractiveShadows>().isTriggered = true;
+            ObjectWithShadow.GetComponent<InteractiveShadows>().UpdateShadowCollider();
         }
-        
     }
     
 }

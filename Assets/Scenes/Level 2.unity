@@ -257,6 +257,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 3901759537889877468, guid: 3bf41c6314de0654797cbaae76b9616d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5516527734377980249, guid: 3bf41c6314de0654797cbaae76b9616d,
         type: 3}
       propertyPath: m_Layer
@@ -7504,7 +7509,7 @@ LightingSettings:
   m_Name: 
   serializedVersion: 6
   m_GIWorkflowMode: 0
-  m_EnableBakedLightmaps: 1
+  m_EnableBakedLightmaps: 0
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 1
   m_BounceScale: 1
@@ -9926,7 +9931,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 23.33, y: 16.68}
-  m_SizeDelta: {x: 15, y: 6}
+  m_SizeDelta: {x: 10, y: 6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1456098376979599696
 PrefabInstance:
@@ -9939,12 +9944,12 @@ PrefabInstance:
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -7.650547e-10
+      value: -0.0000000018848663
       objectReference: {fileID: 0}
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 3.842889e-12
+      value: 9.467729e-12
       objectReference: {fileID: 0}
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -9954,7 +9959,7 @@ PrefabInstance:
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.005022961
+      value: -0.0050229602
       objectReference: {fileID: 0}
     - target: {fileID: 2112174020475380446, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -10009,12 +10014,12 @@ PrefabInstance:
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.0000000020136208
+      value: -0.0000000033702794
       objectReference: {fileID: 0}
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 1.0114452e-11
+      value: 1.6928983e-11
       objectReference: {fileID: 0}
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -10106,9 +10111,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Move to the lower floor to reach the magical portal.\n\nSelect objects
-    by pressing the \"E\" key on your keyboard. To rotate the selected objects, press
-    the \u201CR\u201D key.\r\n"
+  m_text: 'Move to the lower floor to reach the magical portal.
+
+
+    Select objects
+    by pressing the "E" key on your keyboard.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1139332d6efe6724e90bfcc1756f9517, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 1139332d6efe6724e90bfcc1756f9517, type: 2}
@@ -10135,8 +10144,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

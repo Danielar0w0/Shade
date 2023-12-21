@@ -352,6 +352,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chest with Coins (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3901759537889877468, guid: 3bf41c6314de0654797cbaae76b9616d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7510653551668487543, guid: 3bf41c6314de0654797cbaae76b9616d,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -9182,7 +9187,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.33, y: 16.68}
+  m_AnchoredPosition: {x: 23.33, y: 15.82}
   m_SizeDelta: {x: 8, y: 4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1456098376979599696
@@ -9196,12 +9201,12 @@ PrefabInstance:
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.000000002180965
+      value: 7.141473e-10
       objectReference: {fileID: 0}
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -1.0955038e-11
+      value: -3.58718e-12
       objectReference: {fileID: 0}
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -9211,7 +9216,7 @@ PrefabInstance:
     - target: {fileID: 1103017685441789370, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.00502296
+      value: -0.0050229616
       objectReference: {fileID: 0}
     - target: {fileID: 2112174020475380446, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -9266,12 +9271,12 @@ PrefabInstance:
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.0000000025900047
+      value: 0.0000000015689237
       objectReference: {fileID: 0}
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -1.3009645e-11
+      value: -7.880734e-12
       objectReference: {fileID: 0}
     - target: {fileID: 4814499898694484431, guid: 58e6b3830f0d99941b47c71f1fe561d5,
         type: 3}
@@ -9390,8 +9395,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 8
-  m_fontSizeBase: 8
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

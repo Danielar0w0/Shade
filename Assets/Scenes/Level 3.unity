@@ -316,7 +316,7 @@ LightingSettings:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   serializedVersion: 6
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_EnableBakedLightmaps: 0
   m_EnableRealtimeLightmaps: 0
   m_RealtimeEnvironmentLighting: 1
@@ -1152,12 +1152,12 @@ PrefabInstance:
     - target: {fileID: 857753706471572224, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000007861583
+      value: 0.000000008491659
       objectReference: {fileID: 0}
     - target: {fileID: 857753706471572224, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0000000012783378
+      value: 0.0000000013807917
       objectReference: {fileID: 0}
     - target: {fileID: 857753706471572224, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
@@ -1207,12 +1207,12 @@ PrefabInstance:
     - target: {fileID: 4885941509793930057, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.000000015801005
+      value: 0.000000018928624
       objectReference: {fileID: 0}
     - target: {fileID: 4885941509793930057, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.0000000028652685
+      value: 0.000000003432414
       objectReference: {fileID: 0}
     - target: {fileID: 4885941509793930057, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
@@ -1287,12 +1287,12 @@ PrefabInstance:
     - target: {fileID: 5007024116383521299, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.000000017682803
+      value: -0.000000017030626
       objectReference: {fileID: 0}
     - target: {fileID: 5007024116383521299, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.0000000025469646
+      value: -0.0000000024530273
       objectReference: {fileID: 0}
     - target: {fileID: 5007024116383521299, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
@@ -1322,12 +1322,12 @@ PrefabInstance:
     - target: {fileID: 5556700636702646133, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.00000001667721
+      value: 0.000000016983323
       objectReference: {fileID: 0}
     - target: {fileID: 5556700636702646133, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0000000027118092
+      value: 0.0000000027615845
       objectReference: {fileID: 0}
     - target: {fileID: 5556700636702646133, guid: 829060e9d19365e4eaba082a80057aca,
         type: 3}

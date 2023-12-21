@@ -76,7 +76,7 @@ public class InteractiveShadows : MonoBehaviour
         rb.isKinematic = true;
     }
 
-    void UpdateShadowCollider()
+    internal void UpdateShadowCollider()
     {
         shadowColliderMesh.vertices = ComputeShadowColliderMeshVertices();
         shadowCollider.sharedMesh = shadowColliderMesh;
