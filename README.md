@@ -30,9 +30,6 @@ https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-
 - Hand Painted Stone Texture
 https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-stone-texture-73949
 
-- Stylized Low Poly Rocks
-https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
-
 - Stylized Hand Painted Dungeon (Free)
 https://assetstore.unity.com/packages/3d/environments/stylized-hand-painted-dungeon-free-173934
 
@@ -55,3 +52,6 @@ https://assetstore.unity.com/packages/tools/utilities/cone-mesh-229842
 
 - Valley Gray Cliff
 https://assetstore.unity.com/packages/3d/props/exterior/valley-gray-cliff-203730
+
+- Stylized Low Poly Rocks
+https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
