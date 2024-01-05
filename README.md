@@ -24,14 +24,16 @@ https://assetstore.unity.com/packages/2d/textures-materials/fabric/yughues-free-
 - Dungeon Ground Texture 
 https://assetstore.unity.com/packages/2d/textures-materials/floors/dungeon-ground-texture-33296
 
-- Treasure Set
-https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
-
 - Hand Painted Stone Texture
 https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-stone-texture-73949
 
 - Stylized Hand Painted Dungeon (Free)
 https://assetstore.unity.com/packages/3d/environments/stylized-hand-painted-dungeon-free-173934
+
+- PBR Log 
+https://assetstore.unity.com/packages/2d/textures-materials/wood/pbr-log-149788
+  - Exception: Should be placed in **/Assets/Materials**
+
 
 Already included in the project:
 
@@ -55,3 +57,7 @@ https://assetstore.unity.com/packages/3d/props/exterior/valley-gray-cliff-203730
 
 - Stylized Low Poly Rocks
 https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
+
+- Treasure Set
+https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
+
