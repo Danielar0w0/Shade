@@ -58,5 +58,12 @@ https://assetstore.unity.com/packages/3d/props/exterior/valley-gray-cliff-203730
 https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
 
 - Treasure Set
-https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
+https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345![Screenshot 2024-01-07 213441.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-01-07%20213441.png)
 
+
+# Additional Instructions
+
+This project uses Unity's Universal Render Pipeline.
+If imported materials appear purple (i.e., pink), select and upgrade with "Convert Selected Built-in Materials to URP" (Edit > Rendering > Materials > Convert Selected Built-in Materials to URP).
+
+![AdditionalInstructions.png](AdditionalInstructions.png)
