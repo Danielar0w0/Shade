@@ -1,7 +1,7 @@
 # Installation
 
 Before you can run this project, you need to add the following assets to the project.
-The resulting folders must be placed in the Assets folder of your project in **/Assets/Libraries**.
+The resulting folders can be placed in the Assets folder of your project in **/Assets/Libraries**.
 
 - Magic Effects FREE
 https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933
@@ -32,7 +32,6 @@ https://assetstore.unity.com/packages/3d/environments/stylized-hand-painted-dung
 
 - PBR Log 
 https://assetstore.unity.com/packages/2d/textures-materials/wood/pbr-log-149788
-  - Exception: Should be placed in **/Assets/Materials**
 
 
 Already included in the project:
