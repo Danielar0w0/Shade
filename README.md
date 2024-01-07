@@ -9,7 +9,7 @@ https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-24
 - Terrain Sample Asset Pack
 https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
 
-- Dragon Statue
+- Dragon Statue [Optional]
 https://assetstore.unity.com/packages/3d/dragon-statue-59053
 
 - Skybox Series Free
